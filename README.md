@@ -5,14 +5,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkkostov18" alt="pkkostov18" /></a> </p>
 
-
-                    - 🔭 I’m currently working on [ScaleFocus-project](https://github.com/knandrikov18/ScaleFocus-project)
-
-                    - 🌱 I’m currently learning **in school**
+<p text-align="center">
+- 🔭 I’m currently working on [ScaleFocus-project](https://github.com/knandrikov18/ScaleFocus-project)
+</p>
+- 🌱 I’m currently learning **in school**
  
-                    - 📫 How to reach me **PKKostov18@codingburgas.bg**
+- 📫 How to reach me **PKKostov18@codingburgas.bg**
 
-                    - ⚡ Fun fact **coding is cool**
+- ⚡ Fun fact **coding is cool**
 
 
 
