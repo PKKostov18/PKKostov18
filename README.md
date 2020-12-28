@@ -9,9 +9,10 @@
 
 - ⚡ Fun fact **coding is cool**
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004838355919" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-circle-512.png" alt="https://www.facebook.com/profile.php?id=100004838355919" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004838355919" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-circle-512.png" alt="https://www.facebook.com/profile.php?id=100004838355919" height="40" width="40" /></a>
 <a href="https://instagram.com/p_kostov04" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="p_kostov04" height="40" width="40" /></a>
 </p>
 
