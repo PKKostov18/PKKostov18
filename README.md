@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Plamen Kostov</h1>
-<h3 align="center">"Practise, makes perfect"</h3>
+<h3 align="center">"Practice, makes perfect"</h3>
 
 - 🔭 I’m currently working on [ScaleFocus-project](https://github.com/knandrikov18/ScaleFocus-project)
 
