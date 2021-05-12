@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Plamen Kostov</h1>
 
-- 🔭 I’m currently working on [MusalaSoft-project](https://github.com/PKKostov18/Musala-Soft-Project)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **in school**
 
